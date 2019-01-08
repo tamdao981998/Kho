@@ -1,0 +1,593 @@
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\QuanLiCuaHangDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+C:\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DAWNC\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+G:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+G:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+G:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+D:\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+E:\New folder\DAWNC1\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\DAWNC11\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\DAWNC11\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDonDatHang.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+E:\New folder\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemkhachhang.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemnsx.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemsanpham.resources
+D:\_\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\_\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\_\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCao.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCaoThongKe.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemkhachhang.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemnsx.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemsanpham.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.cache
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.compiled
+C:\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCao.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCaoThongKe.resources
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.cache
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.compiled
+D:\WinNC\DAWNC1.2\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCao.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCaoThongKe.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemkhachhang.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemnsx.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemsanpham.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.cache
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.compiled
+C:\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCao.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCaoThongKe.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemkhachhang.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemnsx.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemsanpham.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.cache
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.compiled
+D:\WinNC\DAWNC1.3\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe.config
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.exe
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLiCuaHangDoChoi.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojFakesResolveAssemblyReference.cache
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\fakes.args
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.fakesconfig
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.Fakes.xml
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiBUS.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\b\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ah
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.ch
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.cs
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.csproj
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakes
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\f.fakesconfig
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csproj.FileListAbsolute.txt
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\f.csprojResolveAssemblyReference.cache
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.dll
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\Fakes\qlchdcbus\o\QuanLyCuaHangDoChoiBUS.Fakes.pdb
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csprojResolveAssemblyReference.cache
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBanHang.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCao.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmBaoCaoThongKe.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmLogin.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhapHang.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmCuaHangDoChoi.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmDoiMatkhau.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmHoaDon.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmKhachHang.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNguoiDung.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmNhasanXuat.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmSanPham.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTaiKhoan.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemkhachhang.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemnsx.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.frmthemsanpham.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.FrmTongQuan.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.Properties.Resources.resources
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\QuanLiCuaHangDoChoi.csproj.GenerateResource.Cache
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.cache
+D:\WinNC\0306161230\CuaHangBanDoChoi\QuanLiCuaHangDoChoi\obj\x86\Debug\RdlCompile.compiled

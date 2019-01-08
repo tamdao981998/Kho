@@ -1,0 +1,63 @@
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\Users\Admin\Desktop\DAWNC\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\DAWNC11\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+E:\New folder\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.2\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+C:\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.dll
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\bin\Debug\QuanLyCuaHangDoChoiDTO.pdb
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.dll
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.pdb
+D:\WinNC\DAWNC1.3\QuanLyCuaHangDoChoiDAO\obj\Debug\QuanLyCuaHangDoChoiDAO.csprojResolveAssemblyReference.cache

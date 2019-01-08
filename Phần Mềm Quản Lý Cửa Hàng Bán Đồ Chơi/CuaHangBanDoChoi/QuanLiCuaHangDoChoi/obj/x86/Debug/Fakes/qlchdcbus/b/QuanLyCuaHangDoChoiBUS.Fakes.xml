@@ -1,0 +1,1118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuanLyCuaHangDoChoiBUS.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.ChiTietDDHBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.#ctor(QuanLyCuaHangDoChoiBUS.ChiTietDDHBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.Constructor">
+            <summary>Sets the shim of ChiTietDDHBUS.ChiTietDDHBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.LOADCTDHHString">
+            <summary>Sets the shim of ChiTietDDHBUS.LOADCTDHH(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.LayMaCTDDNTiepTheo">
+            <summary>Sets the shim of ChiTietDDHBUS.LayMaCTDDNTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.ThemCTDDHChiTietDDHDTO">
+            <summary>Sets the shim of ChiTietDDHBUS.ThemCTDDH(ChiTietDDHDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.AllInstances.LOADCTDHHString">
+            <summary>Sets the shim of ChiTietDDHBUS.LOADCTDHH(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.AllInstances.LayMaCTDDNTiepTheo">
+            <summary>Sets the shim of ChiTietDDHBUS.LayMaCTDDNTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietDDHBUS.AllInstances.ThemCTDDHChiTietDDHDTO">
+            <summary>Sets the shim of ChiTietDDHBUS.ThemCTDDH(ChiTietDDHDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.ChiTietHDBanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.#ctor(QuanLyCuaHangDoChoiBUS.ChiTietHDBanBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.Constructor">
+            <summary>Sets the shim of ChiTietHDBanBUS.ChiTietHDBanBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.LOADCTHDBString">
+            <summary>Sets the shim of ChiTietHDBanBUS.LOADCTHDB(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.LOADCTHDXUATString">
+            <summary>Sets the shim of ChiTietHDBanBUS.LOADCTHDXUAT(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.LayMaCTHDBTiepTheo">
+            <summary>Sets the shim of ChiTietHDBanBUS.LayMaCTHDBTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.ThemCTHDBChiTietHDBanDTO">
+            <summary>Sets the shim of ChiTietHDBanBUS.ThemCTHDB(ChiTietHDBanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.AllInstances.LOADCTHDBString">
+            <summary>Sets the shim of ChiTietHDBanBUS.LOADCTHDB(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.AllInstances.LOADCTHDXUATString">
+            <summary>Sets the shim of ChiTietHDBanBUS.LOADCTHDXUAT(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.AllInstances.LayMaCTHDBTiepTheo">
+            <summary>Sets the shim of ChiTietHDBanBUS.LayMaCTHDBTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDBanBUS.AllInstances.ThemCTHDBChiTietHDBanDTO">
+            <summary>Sets the shim of ChiTietHDBanBUS.ThemCTHDB(ChiTietHDBanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.ChiTietHDNhapBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.#ctor(QuanLyCuaHangDoChoiBUS.ChiTietHDNhapBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.Constructor">
+            <summary>Sets the shim of ChiTietHDNhapBUS.ChiTietHDNhapBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.LOADCTHDNString">
+            <summary>Sets the shim of ChiTietHDNhapBUS.LOADCTHDN(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.LOADCTHDXUATString">
+            <summary>Sets the shim of ChiTietHDNhapBUS.LOADCTHDXUAT(String mahdn)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.ThemCTHDNChiTietHDNhapDTO">
+            <summary>Sets the shim of ChiTietHDNhapBUS.ThemCTHDN(ChiTietHDNhapDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.AllInstances.LOADCTHDNString">
+            <summary>Sets the shim of ChiTietHDNhapBUS.LOADCTHDN(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.AllInstances.LOADCTHDXUATString">
+            <summary>Sets the shim of ChiTietHDNhapBUS.LOADCTHDXUAT(String mahdn)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimChiTietHDNhapBUS.AllInstances.ThemCTHDNChiTietHDNhapDTO">
+            <summary>Sets the shim of ChiTietHDNhapBUS.ThemCTHDN(ChiTietHDNhapDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.DonDatHangBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.#ctor(QuanLyCuaHangDoChoiBUS.DonDatHangBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.Constructor">
+            <summary>Sets the shim of DonDatHangBUS.DonDatHangBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.Laydsdondathang">
+            <summary>Sets the shim of DonDatHangBUS.Laydsdondathang()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.MaDDHLonNhat">
+            <summary>Sets the shim of DonDatHangBUS.MaDDHLonNhat()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.SUADDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.SUADDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.ThemDDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.ThemDDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.TimKiemString">
+            <summary>Sets the shim of DonDatHangBUS.TimKiem(String ten)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.XoaDDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.XoaDDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.Laydsdondathang">
+            <summary>Sets the shim of DonDatHangBUS.Laydsdondathang()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.MaDDHLonNhat">
+            <summary>Sets the shim of DonDatHangBUS.MaDDHLonNhat()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.SUADDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.SUADDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.ThemDDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.ThemDDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.TimKiemString">
+            <summary>Sets the shim of DonDatHangBUS.TimKiem(String ten)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimDonDatHangBUS.AllInstances.XoaDDHDonDatHangDTO">
+            <summary>Sets the shim of DonDatHangBUS.XoaDDH(DonDatHangDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.HDBanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.#ctor(QuanLyCuaHangDoChoiBUS.HDBanBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.Constructor">
+            <summary>Sets the shim of HDBanBUS.HDBanBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.DemMaHDBan">
+            <summary>Sets the shim of HDBanBUS.DemMaHDBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.DemSoHDHuy">
+            <summary>Sets the shim of HDBanBUS.DemSoHDHuy()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LAYDSHDBanTheoMaHDString">
+            <summary>Sets the shim of HDBanBUS.LAYDSHDBanTheoMaHD(String mahd)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LAYDSHDBanxoa">
+            <summary>Sets the shim of HDBanBUS.LAYDSHDBanxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LAYHDBan">
+            <summary>Sets the shim of HDBanBUS.LAYHDBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LAYHDBanTheoNgayDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LAYHDBanTheoNgay(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LayDSHoaDonBanHuyDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayDSHoaDonBanHuy(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LayMaHDBTiepTheo">
+            <summary>Sets the shim of HDBanBUS.LayMaHDBTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LayTongDoanhThuTheoNhanVienStringDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayTongDoanhThuTheoNhanVien(String manv, DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.LayTongDoanhThuTheoThangDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayTongDoanhThuTheoThang(DateTime ThangTu, DateTime ThangDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.SUAHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.SUAHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.ThemHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.ThemHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.TimKiemString">
+            <summary>Sets the shim of HDBanBUS.TimKiem(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.TongDoanhThuTrongNgay">
+            <summary>Sets the shim of HDBanBUS.TongDoanhThuTrongNgay()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.XoaHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.XoaHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.DemMaHDBan">
+            <summary>Sets the shim of HDBanBUS.DemMaHDBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.DemSoHDHuy">
+            <summary>Sets the shim of HDBanBUS.DemSoHDHuy()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LAYDSHDBanTheoMaHDString">
+            <summary>Sets the shim of HDBanBUS.LAYDSHDBanTheoMaHD(String mahd)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LAYDSHDBanxoa">
+            <summary>Sets the shim of HDBanBUS.LAYDSHDBanxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LAYHDBan">
+            <summary>Sets the shim of HDBanBUS.LAYHDBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LAYHDBanTheoNgayDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LAYHDBanTheoNgay(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LayDSHoaDonBanHuyDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayDSHoaDonBanHuy(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LayMaHDBTiepTheo">
+            <summary>Sets the shim of HDBanBUS.LayMaHDBTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LayTongDoanhThuTheoNhanVienStringDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayTongDoanhThuTheoNhanVien(String manv, DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.LayTongDoanhThuTheoThangDateTimeDateTime">
+            <summary>Sets the shim of HDBanBUS.LayTongDoanhThuTheoThang(DateTime ThangTu, DateTime ThangDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.SUAHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.SUAHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.ThemHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.ThemHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.TimKiemString">
+            <summary>Sets the shim of HDBanBUS.TimKiem(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.TongDoanhThuTrongNgay">
+            <summary>Sets the shim of HDBanBUS.TongDoanhThuTrongNgay()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDBanBUS.AllInstances.XoaHDBHDBanDTO">
+            <summary>Sets the shim of HDBanBUS.XoaHDB(HDBanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.HDNhapBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.#ctor(QuanLyCuaHangDoChoiBUS.HDNhapBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.Constructor">
+            <summary>Sets the shim of HDNhapBUS.HDNhapBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.DemMaHDNhap">
+            <summary>Sets the shim of HDNhapBUS.DemMaHDNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LAYDSHDNhap">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LAYDSHDNhapTheoMaHDString">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapTheoMaHD(String mahd)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LAYDSHDNhapTheoNgayDateTimeDateTime">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapTheoNgay(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LAYDSHDNhapxoa">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LayDanHSachHDNHuyDateTimeDateTime">
+            <summary>Sets the shim of HDNhapBUS.LayDanHSachHDNHuy(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.LayMaHDNTiepTheo">
+            <summary>Sets the shim of HDNhapBUS.LayMaHDNTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.SUAHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.SUAHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.ThemHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.ThemHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.TimKiemString">
+            <summary>Sets the shim of HDNhapBUS.TimKiem(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.XoaHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.XoaHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.DemMaHDNhap">
+            <summary>Sets the shim of HDNhapBUS.DemMaHDNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LAYDSHDNhap">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LAYDSHDNhapTheoMaHDString">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapTheoMaHD(String mahd)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LAYDSHDNhapTheoNgayDateTimeDateTime">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapTheoNgay(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LAYDSHDNhapxoa">
+            <summary>Sets the shim of HDNhapBUS.LAYDSHDNhapxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LayDanHSachHDNHuyDateTimeDateTime">
+            <summary>Sets the shim of HDNhapBUS.LayDanHSachHDNHuy(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.LayMaHDNTiepTheo">
+            <summary>Sets the shim of HDNhapBUS.LayMaHDNTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.SUAHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.SUAHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.ThemHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.ThemHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.TimKiemString">
+            <summary>Sets the shim of HDNhapBUS.TimKiem(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimHDNhapBUS.AllInstances.XoaHDNHDNhapDTO">
+            <summary>Sets the shim of HDNhapBUS.XoaHDN(HDNhapDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.KhachHangBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.#ctor(QuanLyCuaHangDoChoiBUS.KhachHangBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.Constructor">
+            <summary>Sets the shim of KhachHangBUS.KhachHangBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.LAYDSKH">
+            <summary>Sets the shim of KhachHangBUS.LAYDSKH()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.LAYDSKHxoa">
+            <summary>Sets the shim of KhachHangBUS.LAYDSKHxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.LayMaKHTiepTheo">
+            <summary>Sets the shim of KhachHangBUS.LayMaKHTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.SuaTTKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.SuaTTKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.ThemKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.ThemKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.TimKiemTheoTenString">
+            <summary>Sets the shim of KhachHangBUS.TimKiemTheoTen(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.XoaTTKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.XoaTTKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.LAYDSKH">
+            <summary>Sets the shim of KhachHangBUS.LAYDSKH()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.LAYDSKHxoa">
+            <summary>Sets the shim of KhachHangBUS.LAYDSKHxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.LayMaKHTiepTheo">
+            <summary>Sets the shim of KhachHangBUS.LayMaKHTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.SuaTTKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.SuaTTKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.ThemKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.ThemKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.TimKiemTheoTenString">
+            <summary>Sets the shim of KhachHangBUS.TimKiemTheoTen(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimKhachHangBUS.AllInstances.XoaTTKHKhachHangDTO">
+            <summary>Sets the shim of KhachHangBUS.XoaTTKH(KhachHangDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.LoaiSPBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.#ctor(QuanLyCuaHangDoChoiBUS.LoaiSPBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.Constructor">
+            <summary>Sets the shim of LoaiSPBUS.LoaiSPBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.LayLoaiSanPhamString">
+            <summary>Sets the shim of LoaiSPBUS.LayLoaiSanPham(String maLoai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.LayMaLoaiSPTiepTheo">
+            <summary>Sets the shim of LoaiSPBUS.LayMaLoaiSPTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.SuaLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.SuaLoaiSP(LoaiSPDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.ThemLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.ThemLoaiSP(LoaiSPDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.XoaLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.XoaLoaiSP(LoaiSPDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.layDSLoaiSP">
+            <summary>Sets the shim of LoaiSPBUS.layDSLoaiSP()</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.LayLoaiSanPhamString">
+            <summary>Sets the shim of LoaiSPBUS.LayLoaiSanPham(String maLoai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.LayMaLoaiSPTiepTheo">
+            <summary>Sets the shim of LoaiSPBUS.LayMaLoaiSPTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.SuaLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.SuaLoaiSP(LoaiSPDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.ThemLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.ThemLoaiSP(LoaiSPDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.XoaLoaiSPLoaiSPDTO">
+            <summary>Sets the shim of LoaiSPBUS.XoaLoaiSP(LoaiSPDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiSPBUS.AllInstances.layDSLoaiSP">
+            <summary>Sets the shim of LoaiSPBUS.layDSLoaiSP()</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.LoaiTKBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.#ctor(QuanLyCuaHangDoChoiBUS.LoaiTKBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.Constructor">
+            <summary>Sets the shim of LoaiTKBUS.LoaiTKBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.LayMaLoaiTKTiepTheo">
+            <summary>Sets the shim of LoaiTKBUS.LayMaLoaiTKTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.LoadDSLoaiTK">
+            <summary>Sets the shim of LoaiTKBUS.LoadDSLoaiTK()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.SuaTTTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.SuaTTTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.ThemLoaiTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.ThemLoaiTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.XoaTTTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.XoaTTTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances.LayMaLoaiTKTiepTheo">
+            <summary>Sets the shim of LoaiTKBUS.LayMaLoaiTKTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances.LoadDSLoaiTK">
+            <summary>Sets the shim of LoaiTKBUS.LoadDSLoaiTK()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances.SuaTTTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.SuaTTTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances.ThemLoaiTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.ThemLoaiTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimLoaiTKBUS.AllInstances.XoaTTTKLoaiTKDTO">
+            <summary>Sets the shim of LoaiTKBUS.XoaTTTK(LoaiTKDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.NXSBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.#ctor(QuanLyCuaHangDoChoiBUS.NXSBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.Constructor">
+            <summary>Sets the shim of NXSBUS.NXSBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.LayDSNSX">
+            <summary>Sets the shim of NXSBUS.LayDSNSX()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.LayNSXTiepTheo">
+            <summary>Sets the shim of NXSBUS.LayNSXTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.LoadDSNSX">
+            <summary>Sets the shim of NXSBUS.LoadDSNSX()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.LoadDSNXSxoa">
+            <summary>Sets the shim of NXSBUS.LoadDSNXSxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.SuaNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.SuaNSX(NSXDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.ThemNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.ThemNSX(NSXDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.TimKiemString">
+            <summary>Sets the shim of NXSBUS.TimKiem(String ten)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.XoaNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.XoaNSX(NSXDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.LayDSNSX">
+            <summary>Sets the shim of NXSBUS.LayDSNSX()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.LayNSXTiepTheo">
+            <summary>Sets the shim of NXSBUS.LayNSXTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.LoadDSNSX">
+            <summary>Sets the shim of NXSBUS.LoadDSNSX()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.LoadDSNXSxoa">
+            <summary>Sets the shim of NXSBUS.LoadDSNXSxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.SuaNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.SuaNSX(NSXDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.ThemNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.ThemNSX(NSXDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.TimKiemString">
+            <summary>Sets the shim of NXSBUS.TimKiem(String ten)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimNXSBUS.AllInstances.XoaNSXNSXDTO">
+            <summary>Sets the shim of NXSBUS.XoaNSX(NSXDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.SanPhamBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.#ctor(QuanLyCuaHangDoChoiBUS.SanPhamBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.Constructor">
+            <summary>Sets the shim of SanPhamBUS.SanPhamBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSPBanDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.LayDSSPBan(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSPDaNhapDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.LayDSSPDaNhap(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSanPham">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPham()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSanPhamTheoLoaiString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoLoai(String maLoai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSanPhamTheoNSXString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoNSX(String mansx)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSanPhamTheoTenString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoTen(String tenSP)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayDSSanPhamxoa">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.LayMaSPTiepTheo">
+            <summary>Sets the shim of SanPhamBUS.LayMaSPTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.SPBanChayNhatDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.SPBanChayNhat(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.SuaNhapSoLuongStringString">
+            <summary>Sets the shim of SanPhamBUS.SuaNhapSoLuong(String sl, String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.SuaSoLuongStringString">
+            <summary>Sets the shim of SanPhamBUS.SuaSoLuong(String sl, String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.SuaTTSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.SuaTTSP(SanPhamDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.TKTHEOGIAStringString">
+            <summary>Sets the shim of SanPhamBUS.TKTHEOGIA(String giatu, String giaden)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.TKTHEOGIAtenStringStringString">
+            <summary>Sets the shim of SanPhamBUS.TKTHEOGIAten(String ma, String giatu, String giaden)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.ThemSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.ThemSP(SanPhamDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.TimKiemTheoMaString">
+            <summary>Sets the shim of SanPhamBUS.TimKiemTheoMa(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.TongSoSPBan">
+            <summary>Sets the shim of SanPhamBUS.TongSoSPBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.TongSoSPNhap">
+            <summary>Sets the shim of SanPhamBUS.TongSoSPNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.XoaSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.XoaSP(SanPhamDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSPBanDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.LayDSSPBan(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSPDaNhapDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.LayDSSPDaNhap(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSanPham">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPham()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSanPhamTheoLoaiString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoLoai(String maLoai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSanPhamTheoNSXString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoNSX(String mansx)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSanPhamTheoTenString">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamTheoTen(String tenSP)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayDSSanPhamxoa">
+            <summary>Sets the shim of SanPhamBUS.LayDSSanPhamxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.LayMaSPTiepTheo">
+            <summary>Sets the shim of SanPhamBUS.LayMaSPTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.SPBanChayNhatDateTimeDateTime">
+            <summary>Sets the shim of SanPhamBUS.SPBanChayNhat(DateTime TimeTu, DateTime TimeDen)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.SuaNhapSoLuongStringString">
+            <summary>Sets the shim of SanPhamBUS.SuaNhapSoLuong(String sl, String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.SuaSoLuongStringString">
+            <summary>Sets the shim of SanPhamBUS.SuaSoLuong(String sl, String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.SuaTTSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.SuaTTSP(SanPhamDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.TKTHEOGIAStringString">
+            <summary>Sets the shim of SanPhamBUS.TKTHEOGIA(String giatu, String giaden)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.TKTHEOGIAtenStringStringString">
+            <summary>Sets the shim of SanPhamBUS.TKTHEOGIAten(String ma, String giatu, String giaden)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.ThemSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.ThemSP(SanPhamDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.TimKiemTheoMaString">
+            <summary>Sets the shim of SanPhamBUS.TimKiemTheoMa(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.TongSoSPBan">
+            <summary>Sets the shim of SanPhamBUS.TongSoSPBan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.TongSoSPNhap">
+            <summary>Sets the shim of SanPhamBUS.TongSoSPNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimSanPhamBUS.AllInstances.XoaSPSanPhamDTO">
+            <summary>Sets the shim of SanPhamBUS.XoaSP(SanPhamDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS">
+            <summary>Shim type of QuanLyCuaHangDoChoiBUS.TaiKhoanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.#ctor(QuanLyCuaHangDoChoiBUS.TaiKhoanBUS)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.Constructor">
+            <summary>Sets the shim of TaiKhoanBUS.TaiKhoanBUS()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.KTTTString">
+            <summary>Sets the shim of TaiKhoanBUS.KTTT(String tontai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.KiemTraDangNhapStringString">
+            <summary>Sets the shim of TaiKhoanBUS.KiemTraDangNhap(String tk, String mk)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayDSTKTheoMaNVString">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTKTheoMaNV(String maNV)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayDSTaiKhoan">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTaiKhoan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayDSTaiKhoanxoa">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTaiKhoanxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayManNVTiepTheo">
+            <summary>Sets the shim of TaiKhoanBUS.LayManNVTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayTenDangNhap">
+            <summary>Sets the shim of TaiKhoanBUS.LayTenDangNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.LayThongTinTKString">
+            <summary>Sets the shim of TaiKhoanBUS.LayThongTinTK(String tdn)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.SuaTTTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.SuaTTTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.ThemTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.ThemTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.TimKiemTheoMaString">
+            <summary>Sets the shim of TaiKhoanBUS.TimKiemTheoMa(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.TimKiemTheoTenString">
+            <summary>Sets the shim of TaiKhoanBUS.TimKiemTheoTen(String tennv)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.UpdateMatKhauTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.UpdateMatKhau(TaiKhoanDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.XoaTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.XoaTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.KTTTString">
+            <summary>Sets the shim of TaiKhoanBUS.KTTT(String tontai)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.KiemTraDangNhapStringString">
+            <summary>Sets the shim of TaiKhoanBUS.KiemTraDangNhap(String tk, String mk)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayDSTKTheoMaNVString">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTKTheoMaNV(String maNV)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayDSTaiKhoan">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTaiKhoan()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayDSTaiKhoanxoa">
+            <summary>Sets the shim of TaiKhoanBUS.LayDSTaiKhoanxoa()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayManNVTiepTheo">
+            <summary>Sets the shim of TaiKhoanBUS.LayManNVTiepTheo()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayTenDangNhap">
+            <summary>Sets the shim of TaiKhoanBUS.LayTenDangNhap()</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.LayThongTinTKString">
+            <summary>Sets the shim of TaiKhoanBUS.LayThongTinTK(String tdn)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.SuaTTTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.SuaTTTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.ThemTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.ThemTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.TimKiemTheoMaString">
+            <summary>Sets the shim of TaiKhoanBUS.TimKiemTheoMa(String ma)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.TimKiemTheoTenString">
+            <summary>Sets the shim of TaiKhoanBUS.TimKiemTheoTen(String tennv)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.UpdateMatKhauTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.UpdateMatKhau(TaiKhoanDTO dto)</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.ShimTaiKhoanBUS.AllInstances.XoaTKTaiKhoanDTO">
+            <summary>Sets the shim of TaiKhoanBUS.XoaTK(TaiKhoanDTO DTO)</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.ChiTietDDHBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubChiTietDDHBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietDDHBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.ChiTietHDBanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubChiTietHDBanBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDBanBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.ChiTietHDNhapBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubChiTietHDNhapBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubChiTietHDNhapBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.DonDatHangBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubDonDatHangBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubDonDatHangBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.HDBanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubHDBanBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDBanBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.HDNhapBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubHDNhapBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubHDNhapBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.KhachHangBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubKhachHangBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubKhachHangBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.LoaiSPBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubLoaiSPBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiSPBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.LoaiTKBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubLoaiTKBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubLoaiTKBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.NXSBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubNXSBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubNXSBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.SanPhamBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubSanPhamBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubSanPhamBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS">
+            <summary>Stub type of QuanLyCuaHangDoChoiBUS.TaiKhoanBUS</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS.InitializeStub">
+            <summary>Initializes a new instance of type StubTaiKhoanBUS</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:QuanLyCuaHangDoChoiBUS.Fakes.StubTaiKhoanBUS.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
