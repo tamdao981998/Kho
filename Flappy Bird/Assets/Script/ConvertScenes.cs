@@ -25,6 +25,7 @@ public class ConvertScenes : MonoBehaviour {
     public void ConvertSrceen()
     {
         Application.LoadLevel("SampleScene");
+        Time.timeScale = 1;
     }
     public void TopScore()
     {

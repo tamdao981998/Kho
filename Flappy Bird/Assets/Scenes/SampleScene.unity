@@ -186,7 +186,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 4
   m_TargetDisplay: 0
 --- !u!224 &31281498
 RectTransform:
@@ -200,8 +200,8 @@ RectTransform:
   m_Children:
   - {fileID: 625578470}
   - {fileID: 648803717}
-  - {fileID: 1148929656}
   - {fileID: 1148801065}
+  - {fileID: 1148929656}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1401,8 +1401,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300064, guid: 2411e8e71e9c37642903d2343d3fbcbc, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1798,7 +1798,7 @@ Transform:
   m_Children:
   - {fileID: 1291250765}
   m_Father: {fileID: 31281498}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &1148929656 stripped
 RectTransform:
@@ -2093,6 +2093,11 @@ Prefab:
         type: 2}
       propertyPath: speed
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 60485435369059980, guid: a3e211e0ae465d3489a59295dfdcc02e,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3e211e0ae465d3489a59295dfdcc02e, type: 2}
@@ -2417,7 +2422,7 @@ Prefab:
     - target: {fileID: 224601006195087096, guid: f006721e9fe20f540875995bf9090c6d,
         type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 224601006195087096, guid: f006721e9fe20f540875995bf9090c6d,
         type: 2}

@@ -67,7 +67,6 @@
     <Compile Include="Assets\Script\BGsalce.cs" />
     <Compile Include="Assets\Script\BirdController.cs" />
     <Compile Include="Assets\Script\ConvertScenes.cs" />
-    <Compile Include="Assets\Script\Datagame.cs" />
     <Compile Include="Assets\Script\destroy.cs" />
     <Compile Include="Assets\Script\Gameplay.cs" />
     <Compile Include="Assets\Script\NewPide.cs" />

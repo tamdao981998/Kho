@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class Pide : MonoBehaviour {
 
+    public static Pide intance;
     public float speed = 3;
-    void Awake() {
- 
-        
+    private void Instance()
+    {
+        if (intance == null)
+        {
+            intance = this;
+        }
     }
     void Update() { 
         Vector3 temp = transform.position;

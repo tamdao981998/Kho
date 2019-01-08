@@ -25,15 +25,11 @@ public class BirdController : MonoBehaviour
     private bool iss;
     private bool ssi;
     private GameObject newpipe;
-    void Start()
-    {
-        rig.velocity = new Vector2(rig.velocity.x, speed);
-        StartCoroutine(AI());
-    }
-    private void Update()
-    {
-        
-    }
+    //void Start()
+    //{
+    //    rig.velocity = new Vector2(rig.velocity.x, speed);
+    //    StartCoroutine(AI());
+    //}
     IEnumerator AI()
     {
         yield return new WaitForSeconds(time);
@@ -141,7 +137,8 @@ public class BirdController : MonoBehaviour
             {
                 HightScoceOrange.SetActive(true);
             }
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);//Tự động load lại game khi chết
+            Time.timeScale = 0;
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);//Tự động load lại game khi chết
         }
     }
 
